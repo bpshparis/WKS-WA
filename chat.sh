@@ -1,6 +1,12 @@
 #!/bin/bash
+# | -> Alt+Shift+L
+# { -> Alt+(
+# } -> Alt+)
+# [ -> Alt+Shift+(
+# ] -> Alt+Shift+)
 
 TEMP_FILE="./temp.json"
+TEXT="blablabla"
 CTX={}
 APIKEY="FRpm6VvQf8dhnFfO3SDaYcnIyFRKDAU597zXns2vKP4R"
 URL="https://gateway.watsonplatform.net/assistant/api"
