@@ -8,7 +8,7 @@
 TEMP_FILE="./temp.json"
 TEXT="blablabla"
 CTX={}
-APIKEY="FRpm6VvQf8dhnFfO3SDaYcnIyFRKDAU597zXns2vKP4R"
+APIKEY=""
 URL="https://gateway.watsonplatform.net/assistant/api"
 VERSION="2018-09-20"
 GET_WKS_METHOD="/v1/workspaces?version="$VERSION
